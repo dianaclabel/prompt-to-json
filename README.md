@@ -13,7 +13,7 @@
 
 ---
 
-## 1.Consideraciones generales
+## 1. Consideraciones generales
 
 - Este proyecto lo resolvemos de manera **individual**.
 - El rango de tiempo estimado para completar el proyecto es de 1 a 2 Sprints.
