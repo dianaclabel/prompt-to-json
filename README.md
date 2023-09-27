@@ -13,7 +13,7 @@
 
 ---
 
-## 1. Consideraciones generales
+## 1.Consideraciones generales
 
 - Este proyecto lo resolvemos de manera **individual**.
 - El rango de tiempo estimado para completar el proyecto es de 1 a 2 Sprints.
@@ -72,7 +72,7 @@ herramienta.
 ## 5. Criterios de aceptación
 
 1. Deberás configurar tu chatflow de manera que tome el input del usuario y sea
-  utilizado como parte de la cadena de prompts.
+   utilizado como parte de la cadena de prompts.
 
 2. Utilizar el módelo `gpt-3.5-turbo`.
 
